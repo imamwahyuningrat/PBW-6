@@ -58,12 +58,24 @@ Unpacking objects: 100% (31/31), done.
 ➜  desktop 
 ```
 
-Setelah perintah di atas dijalankan, harusnya di komputer kita akan ada folder baru sesuai nama repository, yaitu `PABWEB-X`. Jangan lupa untuk masuk / pindah ke folder tersebut sebelum menjalankan perintah-perintah berikutnya.
+Setelah perintah di atas dijalankan, harusnya di komputer kita akan ada folder baru sesuai nama repository, yaitu `PABWEB-X (contoh)`. Jangan lupa untuk masuk / pindah ke folder tersebut sebelum menjalankan perintah-perintah berikutnya.
 
-###### *(repositori berdasarkan kelas anda)*
+### *(repositori berdasarkan kelas anda)*
+
+### NOTE
+
+Karena panduan ini saya buat 2 tahun yang lalu. Jadi ada sedikit update: _MOHON DIPERHATIKAN DI BAWAH INI_
+
+UPDATE : Pada prosesnya di github branch default `*master` tersebut sudah digantikan dengan branch `*main`. Pergantian ini terkait dengan sensitifitas istilah. Seperti gambar berikut:
+
+![*main](Snapshoot/main.png)
+
+Pada dasarnya keduanya punya peran yang sama hanya nama yang berbeda.
+
+//////////////
 
 ### Membuat Topic Branch
----
+
 Perintah untuk membuat cabang adalah `git branch`, kemudian diikuti dengan nama cabangnya.
 
 **Contoh**:
@@ -75,14 +87,6 @@ git branch A5.123456
 Maka Git akan membuat cabang bernama `A5.123456`
 
 Untuk melihat cabang apa saja yang ada di repositori, gunakan perintah `git branch.`
-
-### Karena panduan ini saya buat 2 tahun yang lalu. Jadi ada sedikit update: _MOHON DIPERHATIKAN DI BAWAH INI_
-
-# UPDATE : Pada prosesnya di github branch default `*master` tersebut sudah digantikan dengan branch `*main`. Pergantian ini terkait dengan sensitifitas istilah. Seperti gambar berikut:
-
-![*main](Snapshoot/main.png)
-
-Pada dasarnya keduanya punya peran yang sama hanya nama yang berbeda.
 
 **output**:
 
