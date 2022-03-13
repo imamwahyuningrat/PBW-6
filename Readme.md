@@ -53,8 +53,8 @@ Contoh struktur direktori sebagai *berikut:*
 
 ## Modul Praktikum 👁‍🗨
 
-- [Modul Praktikum Git & Github #0 (Intro/Setup) ](Praktikum-0-Git-&-Github.md) :octocat:
-- [Modul Prakikum Git & Github #1 (workflow)](Praktikum-1-Berkontribusi-di-Proyek.md)
+- [Modul Praktikum Git & Github #0 (Intro/Setup) ](Panduan%20GIT/Praktikum-0-Git-&-Github.md) :octocat:
+- [Modul Prakikum Git & Github #1 (workflow)](Panduan%20GIT/Praktikum-1-Berkontribusi-di-Proyek.md)
 - [Modul Praktikum Git & Github #2 (Revision Selection)](Panduan%20GIT/Praktikum-2-Simpan-Perubahan-Revisi-dengan-Git-Commit.md)
 - [Modul Praktikum PHP MVC ](https://elearning.stmik-sumedang.ac.id/)
 - [Modul Praktikum Codeigniter](https://elearning.stmik-sumedang.ac.id/)
